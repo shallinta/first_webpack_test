@@ -1,0 +1,25 @@
+{
+  "name": "webpack",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "react, jsx"
+  ],
+  "author": {
+    "name": "John Ch",
+    "email": "zhan.chen@quanr.com",
+    "url": "mailto:zhan.chen@qunar.com"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^2.0.0",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.16.0",
+    "jsx-loader": "^0.13.2",
+    "less-loader": "^2.2.0",
+    "react": "^0.13.3",
+    "react-hot-loader": "^1.2.8",
+    "style-loader": "^0.12.3",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {}
+}
